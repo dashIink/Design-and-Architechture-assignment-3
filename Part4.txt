@@ -1,2 +1,0 @@
-The first approach may be the quickest and has the chance to work well with small scale applications, but as you scale up it becomes difficult to maintain and more tightly coupled than the other two methods.
-As for approaches 2 and 3, abstract classes may be usefull in adding separation but run into the roadblack that you can only extend 1 class wheras you are able to extend multiple interfaces.
